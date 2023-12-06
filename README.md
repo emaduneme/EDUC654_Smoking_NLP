@@ -1,4 +1,6 @@
-# EDUC654_Smoking_NLP
+# Binary Machine Learning Model Predicting Smoking Status
+### Emmanuel Maduneme
+### EDUC 654: Machine Learning for Educational Data Science
 
 Due to the inability to create a folder, I created branches for each part of the project. They include the following
 
