@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "fbca33e1",
+   "id": "2686506c",
    "metadata": {
     "papermill": {
-     "duration": 0.019293,
-     "end_time": "2023-12-06T03:35:53.159231",
+     "duration": 0.014027,
+     "end_time": "2023-12-06T03:38:05.220644",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.139938",
+     "start_time": "2023-12-06T03:38:05.206617",
      "status": "completed"
     },
     "tags": []
@@ -25,13 +25,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2f213157",
+   "id": "f4e992a8",
    "metadata": {
     "papermill": {
-     "duration": 0.018492,
-     "end_time": "2023-12-06T03:35:53.196271",
+     "duration": 0.011989,
+     "end_time": "2023-12-06T03:38:05.244731",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.177779",
+     "start_time": "2023-12-06T03:38:05.232742",
      "status": "completed"
     },
     "tags": []
@@ -46,24 +46,24 @@
     "    \n",
     "  <div align=\"center\">\n",
     "      \n",
-    " ###     December 6, 2023\n"
+    " ###      December 6, 2023\n"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "4086fa14",
+   "id": "c2b8fd72",
    "metadata": {
     "papermill": {
-     "duration": 0.018802,
-     "end_time": "2023-12-06T03:35:53.233856",
+     "duration": 0.01168,
+     "end_time": "2023-12-06T03:38:05.267905",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.215054",
+     "start_time": "2023-12-06T03:38:05.256225",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "### **Introduction**\n",
+    "# **Introduction**\n",
     "\n",
     "Smoking is a pervasive public health concern that detrimentally affects nearly every organ system, leading to a multitude of diseases and a reduction in life expectancy for smokers. The World Health Organization (WHO) has projected that, by the year 2030, smoking will be responsible for 10 million deaths annually, underscoring its continued significance as a global health challenge (WHO, 2...). Despite the availability of evidence-based cessation interventions, less than one-third of individuals who attempt to quit smoking achieve success4. This low success rate is attributed to the addictive nature of nicotine and the complex behavioral, psychological, and social factors associated with smoking.\n",
     "\n",
@@ -83,13 +83,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1637d9dc",
+   "id": "68dfa98e",
    "metadata": {
     "papermill": {
-     "duration": 0.018507,
-     "end_time": "2023-12-06T03:35:53.271218",
+     "duration": 0.011553,
+     "end_time": "2023-12-06T03:38:05.290933",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.252711",
+     "start_time": "2023-12-06T03:38:05.279380",
      "status": "completed"
     },
     "tags": []
@@ -100,19 +100,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3a54f8f2",
+   "id": "d26156c2",
    "metadata": {
     "papermill": {
-     "duration": 0.018487,
-     "end_time": "2023-12-06T03:35:53.308212",
+     "duration": 0.011666,
+     "end_time": "2023-12-06T03:38:05.314010",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.289725",
+     "start_time": "2023-12-06T03:38:05.302344",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "### **About Data**\n",
+    "# **About Data**\n",
     "The Competition came with a `train.csv` and `test.csv`. It also provided a submission sample.  \n",
     "\n",
     "The data has `15925624` observations, `23` predictors and `one` target\n",
@@ -168,13 +168,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b1ee5994",
+   "id": "69f5e4cd",
    "metadata": {
     "papermill": {
-     "duration": 0.018551,
-     "end_time": "2023-12-06T03:35:53.346574",
+     "duration": 0.011494,
+     "end_time": "2023-12-06T03:38:05.337288",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.328023",
+     "start_time": "2023-12-06T03:38:05.325794",
      "status": "completed"
     },
     "tags": []
@@ -192,13 +192,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "17c184e4",
+   "id": "c272c11e",
    "metadata": {
     "papermill": {
-     "duration": 0.018578,
-     "end_time": "2023-12-06T03:35:53.383834",
+     "duration": 0.01171,
+     "end_time": "2023-12-06T03:38:05.360960",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.365256",
+     "start_time": "2023-12-06T03:38:05.349250",
      "status": "completed"
     },
     "tags": []
@@ -227,19 +227,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b1788331",
+   "id": "c017d249",
    "metadata": {
     "papermill": {
-     "duration": 0.018489,
-     "end_time": "2023-12-06T03:35:53.421007",
+     "duration": 0.011575,
+     "end_time": "2023-12-06T03:38:05.384544",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.402518",
+     "start_time": "2023-12-06T03:38:05.372969",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## **Data Preprocessing**\n",
+    "# **Data Preprocessing**\n",
     "\n",
     "The names of the features were cleaned using the `janitor` package. Then, I tried converting the factor features into factors using the recipe package functions but it kept breaking when I run the models. So I did this manually. \n",
     "\n",
@@ -255,13 +255,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "e6937716",
+   "id": "e45a9b73",
    "metadata": {
     "papermill": {
-     "duration": 0.018563,
-     "end_time": "2023-12-06T03:35:53.458123",
+     "duration": 0.011687,
+     "end_time": "2023-12-06T03:38:05.407905",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.439560",
+     "start_time": "2023-12-06T03:38:05.396218",
      "status": "completed"
     },
     "tags": []
@@ -272,42 +272,42 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cd41b033",
+   "id": "b0abf7ed",
    "metadata": {
     "papermill": {
-     "duration": 0.018597,
-     "end_time": "2023-12-06T03:35:53.495757",
+     "duration": 0.012766,
+     "end_time": "2023-12-06T03:38:05.432235",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.477160",
+     "start_time": "2023-12-06T03:38:05.419469",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## **Model Fit**\n",
+    "# **Model Fit**\n",
     "\n",
     "After each model was fit using the `caret` package, an optimal cut point for each model was obtained using the `cutpointr` package. The cut points were different for each model. \n"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "cd793bfa",
+   "id": "01dbbd79",
    "metadata": {
     "papermill": {
-     "duration": 0.018631,
-     "end_time": "2023-12-06T03:35:53.533068",
+     "duration": 0.011962,
+     "end_time": "2023-12-06T03:38:05.456141",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.514437",
+     "start_time": "2023-12-06T03:38:05.444179",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "### **Models**\n",
+    "# **Models**\n",
     "\n",
     "The following models were deployed and the hyperparameter tunings:\n",
     "\n",
-    "## `Ridge logistic Regression (L2)` \n",
+    "# `Ridge logistic Regression (L2)` \n",
     "\n",
     "The ridge regression model was implementing using the glmnet package as well, but with the alpha parameter set to 0 for pure L2 regularization. Lambda grid values ranged from -0.05 to 0.0005 across 10-fold cross-validation.\n",
     "\n"
@@ -320,13 +320,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "b0216d23",
+   "id": "5080a9e9",
    "metadata": {
     "papermill": {
-     "duration": 0.018573,
-     "end_time": "2023-12-06T03:35:53.570392",
+     "duration": 0.011741,
+     "end_time": "2023-12-06T03:38:05.479728",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.551819",
+     "start_time": "2023-12-06T03:38:05.467987",
      "status": "completed"
     },
     "tags": []
@@ -337,20 +337,20 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fa818ab8",
+   "id": "d5dc9026",
    "metadata": {
     "papermill": {
-     "duration": 0.018447,
-     "end_time": "2023-12-06T03:35:53.607401",
+     "duration": 0.011748,
+     "end_time": "2023-12-06T03:38:05.503151",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.588954",
+     "start_time": "2023-12-06T03:38:05.491403",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
     "\n",
-    "## `LASSO Logistic Regression (L1)`, \n",
+    "# `LASSO Logistic Regression (L1)`, \n",
     "\n",
     "The LASSO logistic regression model was fitted using the glmnet package in caret. The alpha parameter was set to 1 for full L1 regularization. The lambda value controlling regularization strength was tuned through 10-fold cross-validation over a grid from -0.05 to 0.05."
    ]
@@ -362,13 +362,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "86b09384",
+   "id": "0a999b28",
    "metadata": {
     "papermill": {
-     "duration": 0.018638,
-     "end_time": "2023-12-06T03:35:53.644590",
+     "duration": 0.011688,
+     "end_time": "2023-12-06T03:38:05.526451",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.625952",
+     "start_time": "2023-12-06T03:38:05.514763",
      "status": "completed"
     },
     "tags": []
@@ -379,19 +379,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ecdbc388",
+   "id": "594afe1f",
    "metadata": {
     "papermill": {
-     "duration": 0.018943,
-     "end_time": "2023-12-06T03:35:53.682226",
+     "duration": 0.011978,
+     "end_time": "2023-12-06T03:38:05.550739",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.663283",
+     "start_time": "2023-12-06T03:38:05.538761",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## `Gradient Boosting Machine` \n",
+    "# `Gradient Boosting Machine` \n",
     "\n",
     "A gradient boosting model was trained using caret's gbm method. The learning rate(shrinkage) was set at 0.1. Due to computational and time constraints, only the number of trees was tuned from 1 to 1000 trees. Interaction depth was fixed at 7. Each node split required a minimum of 40 observations with a bag fraction of 0.5 to allow some randomness to the model. "
    ]
@@ -403,13 +403,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "505aa14c",
+   "id": "776c8b09",
    "metadata": {
     "papermill": {
-     "duration": 0.018844,
-     "end_time": "2023-12-06T03:35:53.719648",
+     "duration": 0.012763,
+     "end_time": "2023-12-06T03:38:05.576061",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.700804",
+     "start_time": "2023-12-06T03:38:05.563298",
      "status": "completed"
     },
     "tags": []
@@ -420,19 +420,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f543de16",
+   "id": "21d0a0fc",
    "metadata": {
     "papermill": {
-     "duration": 0.018736,
-     "end_time": "2023-12-06T03:35:53.756983",
+     "duration": 0.011949,
+     "end_time": "2023-12-06T03:38:05.601097",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.738247",
+     "start_time": "2023-12-06T03:38:05.589148",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## **Model of Choice**\n",
+    "# **Model of Choice**\n",
     "\n",
     "After each model was fit, an optimal cut point for each was obtained using the `cutpointr` package. For each model, the cut points were different. The model performance metrics are summarized below\n"
    ]
@@ -444,13 +444,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "9bfb46d3",
+   "id": "4a82fdb2",
    "metadata": {
     "papermill": {
-     "duration": 0.019197,
-     "end_time": "2023-12-06T03:35:53.794805",
+     "duration": 0.011613,
+     "end_time": "2023-12-06T03:38:05.624253",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.775608",
+     "start_time": "2023-12-06T03:38:05.612640",
      "status": "completed"
     },
     "tags": []
@@ -461,13 +461,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "baa11c2c",
+   "id": "18bc7243",
    "metadata": {
     "papermill": {
-     "duration": 0.01847,
-     "end_time": "2023-12-06T03:35:53.831802",
+     "duration": 0.012795,
+     "end_time": "2023-12-06T03:38:05.648720",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.813332",
+     "start_time": "2023-12-06T03:38:05.635925",
      "status": "completed"
     },
     "tags": []
@@ -482,19 +482,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "347e2978",
+   "id": "91429adf",
    "metadata": {
     "papermill": {
-     "duration": 0.019286,
-     "end_time": "2023-12-06T03:35:53.869687",
+     "duration": 0.01206,
+     "end_time": "2023-12-06T03:38:05.672333",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.850401",
+     "start_time": "2023-12-06T03:38:05.660273",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## **Variable Importance**\n",
+    "# **Variable Importance**\n",
     "\n",
     " The top three highest-scoring variables are `hemoglobin_gm_dl`, `triglycerides_mg_dl`, and `cholesterol_mg_dl`, indicating that these factors had the most significant positive impact on the overall score. \n",
     " \n",
@@ -508,13 +508,13 @@
     }
    },
    "cell_type": "markdown",
-   "id": "876099f5",
+   "id": "3a16df68",
    "metadata": {
     "papermill": {
-     "duration": 0.018653,
-     "end_time": "2023-12-06T03:35:53.906908",
+     "duration": 0.011748,
+     "end_time": "2023-12-06T03:38:05.696316",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.888255",
+     "start_time": "2023-12-06T03:38:05.684568",
      "status": "completed"
     },
     "tags": []
@@ -525,19 +525,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7758dd68",
+   "id": "5d4247fb",
    "metadata": {
     "papermill": {
-     "duration": 0.018533,
-     "end_time": "2023-12-06T03:35:53.944039",
+     "duration": 0.011886,
+     "end_time": "2023-12-06T03:38:05.720055",
      "exception": false,
-     "start_time": "2023-12-06T03:35:53.925506",
+     "start_time": "2023-12-06T03:38:05.708169",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## **Conclusion**\n",
+    "# **Conclusion**\n",
     "\n",
     "The project's goal was to predict binary smoking status using biosignals represents a significant stride in public health informatics. By harnessing machine learning techniques, the study has developed models that can discern smokers from non-smokers with considerable accuracy. The Gradient Boosting Machine model performed the best, demonstrating a promising AUC metric, and suggesting a robust predictive capability. Other models built in the process provided a foundation for further refinement and application of improved performance. \n",
     "\n",
@@ -572,14 +572,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 4.459912,
-   "end_time": "2023-12-06T03:35:54.084776",
+   "duration": 3.90555,
+   "end_time": "2023-12-06T03:38:05.853262",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-12-06T03:35:49.624864",
+   "start_time": "2023-12-06T03:38:01.947712",
    "version": "2.4.0"
   }
  },
