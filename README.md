@@ -5,7 +5,7 @@
 Due to the inability to create a folder, I created branches for each part of the project. They include the following
 
 
-**R**: The R code as well as the dataset used. I only used the `train.csv` for the project
+**R**: The R code as well as the dataset used. I only used the `train.csv` for the project [R code](https://www.kaggle.com/code/emmanuelmaduneme/emmanuel-maduneme-final-report)
 
 
-**Report**: A summary report of the project 
+**Report**: A summary report of the project  [Report](https://www.kaggle.com/code/emmanuelmaduneme/smoking-nlp)
